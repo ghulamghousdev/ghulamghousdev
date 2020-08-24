@@ -20,7 +20,7 @@
 
 <br>
 <p align="left">
-  <br><img src="https://badges.pufler.dev/visits/ghulamghousdev/ghulamghousdev/"><br><img src="https://badges.pufler.dev/repos/ghulamghousdev"<br><img src="https://badges.pufler.dev/years/ghulamghousdev"></p>
+  <br><img src="https://badges.pufler.dev/visits/ghulamghousdev/ghulamghousdev/"><br><img src="https://badges.pufler.dev/repos/ghulamghousdev"><br><img src="https://badges.pufler.dev/years/ghulamghousdev"></p>
 
 
 ### 🤷‍♂️About Me :wave:

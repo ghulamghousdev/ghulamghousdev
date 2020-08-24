@@ -19,19 +19,14 @@
 </a>
 
 <br>
-<br>
+<p align="left">
+  <br><img src="https://badges.pufler.dev/visits/ghulamghousdev/ghulamghousdev/"><br><b>I Have<br><img src="https://badges.pufler.dev/repos/ghulamghousdev"><br>Been Here For</b><br><img src="https://badges.pufler.dev/years/ghulamghousdev"></p>
+
 
 ### About Me :wave:
 
 - Hey! I'm a 19 year old software developer pursuing a Bachelor’s degree in Computer Sciences from the University of Engineering & Technology (UET) Lahore. 
 - I'm constantly posting repositories and new software on GitHub for everybody to use which you can find [here](http://github.com/ghulamghousdev/)!
-
-<p align="center">
-  <br><img src="https://badges.pufler.dev/visits/ghulamghousdev/ghulamghousdev/"><br><b>I Have<br><img src="https://badges.pufler.dev/repos/ghulamghousdev"><br>Been Here For</b><br><img src="https://badges.pufler.dev/years/ghulamghousdev"></p>
-  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/?username=ghulamghousdev&theme=prussian&show_icons=true&count_private=true">
-</p>
 
 ### 👨‍💻 Tech Stack
 
@@ -44,3 +39,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></code>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/?username=ghulamghousdev&theme=shades-of-purple&show_icons=true&count_private=true">
+</p>

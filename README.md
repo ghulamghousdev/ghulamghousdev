@@ -2,13 +2,12 @@
 
 ## About Me :wave:
 
-Hey! I'm a 19 year old software developer pursuing a Bachelor’s degree in Computer Sciences from the University of Engineering & Technology (UET) Lahore. 
-I'm constantly posting repositories and new software on GitHub for everybody to use which you can find here!
+-  Hey! I'm a 19 year old software developer pursuing a Bachelor’s degree in Computer Sciences from the University of Engineering & Technology (UET) Lahore. 
+- I'm constantly posting repositories and new software on GitHub for everybody to use which you can find here!
 
 <p align="center">
-  <br><img src="https://badges.pufler.dev/visits/ghulamghousdev/"><br><b>I Have<br><img src="https://badges.pufler.dev/repos/ghulamghousdev"><br>Been Here For</b><br><img src="https://badges.pufler.dev/years/ghulamghousdev"></p>
-
-:moneybag: **Feeling Generous? Help Support Me** :moneybag:
+  <br><img src="https://badges.pufler.dev/visits/ghulamghousdev/coronavirus-dashboard/"><br><b>I Have<br><img src="https://badges.pufler.dev/repos/ghulamghousdev"><br>Been Here For</b><br><img src="https://badges.pufler.dev/years/ghulamghousdev"></p>
+  
 
 
 ## Find Me Elsewhere :computer:

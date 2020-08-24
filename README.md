@@ -20,10 +20,10 @@
 
 <br>
 <p align="left">
-  <br><img src="https://badges.pufler.dev/visits/ghulamghousdev/ghulamghousdev/"><br><b>I Have<br><img src="https://badges.pufler.dev/repos/ghulamghousdev"><br>Been Here For</b><br><img src="https://badges.pufler.dev/years/ghulamghousdev"></p>
+  <br><img src="https://badges.pufler.dev/visits/ghulamghousdev/ghulamghousdev/"><br><img src="https://badges.pufler.dev/repos/ghulamghousdev"<br><img src="https://badges.pufler.dev/years/ghulamghousdev"></p>
 
 
-### About Me :wave:
+### 🤷‍♂️About Me :wave:
 
 - Hey! I'm a 19 year old software developer pursuing a Bachelor’s degree in Computer Sciences from the University of Engineering & Technology (UET) Lahore. 
 - I'm constantly posting repositories and new software on GitHub for everybody to use which you can find [here](http://github.com/ghulamghousdev/)!

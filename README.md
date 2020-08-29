@@ -46,5 +46,5 @@
 
 ### Top Languages
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghulamghousdev&hide=C++&layout=compact&theme=shades-of-purple">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghulamghousdev&hide=c++&layout=compact&theme=shades-of-purple">
  </p>

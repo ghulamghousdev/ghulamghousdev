@@ -44,7 +44,3 @@
   <img src="https://github-readme-stats.vercel.app/api/?username=ghulamghousdev&theme=shades-of-purple&show_icons=true&count_private=true">
 </p>
 
-### Top Languages
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghulamghousdev&hide=cpp&layout=compact&theme=shades-of-purple">
- </p>

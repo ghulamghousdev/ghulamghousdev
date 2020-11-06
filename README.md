@@ -19,8 +19,8 @@
 </a>
 
 <br>
-<p align="left">
-  <br><img src="https://badges.pufler.dev/visits/ghulamghousdev/ghulamghousdev/"><img src="https://badges.pufler.dev/repos/ghulamghousdev"><img src="https://badges.pufler.dev/years/ghulamghousdev"></p>
+<!---<p align="left">
+  <br><img src="https://badges.pufler.dev/visits/ghulamghousdev/ghulamghousdev/"><img src="https://badges.pufler.dev/repos/ghulamghousdev"><img src="https://badges.pufler.dev/years/ghulamghousdev"></p>---!>
 
 
 ### 🤷‍♂️About Me :wave:

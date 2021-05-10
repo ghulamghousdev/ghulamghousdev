@@ -14,7 +14,11 @@
 </a>
 <a href="https://www.instagram.com/ghulam__ghous">
 <img alt="@justEhmadSaeed | Instagram"  src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+
+<!--
 <img src = "https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" alt = "Medium" />
+  -->
+  
 </a>
 </p>
 <br>

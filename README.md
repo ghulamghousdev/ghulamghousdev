@@ -31,9 +31,8 @@
 - General Team Member of [Developer Student Club](https://developers.google.com/community/dsc) UET Chapter 2019-2021.
 - Delivered [hands-on workshop on Git and GitHub](https://www.linkedin.com/posts/ghulamghousdev_opensource-git-github-activity-6722979018200621056-bPql) to teach students about GitHub and how to use Git to do version controlling and host their code on GitHub.
 - Delivered [hands-on workshop on Azure in Machine Learning](https://www.linkedin.com/posts/ghulamghousdev_mlsa-azure-azurecloud-activity-6792730387152965632-wkZ0) to teach students about Azure, ML and performed a experiment using Azure ML Studio.
-
-### Tech Stack
-
+<!--
+Tech Stack
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
@@ -43,5 +42,5 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></code>
-
 ![Ghous' github stats](https://github-readme-stats.vercel.app/api?username=ghulamghousdev&theme=tokyonight&show_icons=true&count_private=true)
+-->

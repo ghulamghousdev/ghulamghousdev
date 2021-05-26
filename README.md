@@ -24,7 +24,8 @@
 <br>
 
 ### About Me ⚡️
-- Hey! I'm a 19 year old software developer pursuing a Bachelor’s degree in Computer Sciences from the University of Engineering & Technology (UET) Lahore. 
+- Hey! I'm a 19 year old software developer pursuing a Bachelor’s degree in Computer Sciences from the University of Engineering & Technology (UET) Lahore.
+- Student Developer at Google Summer Of Code 2021. 
 - I'm constantly posting repositories and new software on GitHub for everybody to use which you can find [here](http://github.com/ghulamghousdev/)!
 - Currently dealing in MERN Stack for web development.
 - Making a difference to the community as [Alpha Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com) at Microsoft.

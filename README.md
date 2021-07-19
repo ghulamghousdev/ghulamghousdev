@@ -28,7 +28,7 @@
 - Student Developer at Google Summer Of Code 2021. 
 - I'm constantly posting repositories and new software on GitHub for everybody to use which you can find [here](http://github.com/ghulamghousdev/)!
 - Currently dealing in MERN Stack for web development.
-- Making a difference to the community as [Alpha Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com) at Microsoft.
+- Making a difference to the community as [Beta Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com) at Microsoft.
 - General Team Member of [Developer Student Club](https://developers.google.com/community/dsc) UET Chapter 2019-2021.
 - Delivered [hands-on workshop on Git and GitHub](https://www.linkedin.com/posts/ghulamghousdev_opensource-git-github-activity-6722979018200621056-bPql) to teach students about GitHub and how to use Git to do version controlling and host their code on GitHub.
 - Delivered [hands-on workshop on Azure in Machine Learning](https://www.linkedin.com/posts/ghulamghousdev_mlsa-azure-azurecloud-activity-6792730387152965632-wkZ0) to teach students about Azure, ML and performed a experiment using Azure ML Studio.

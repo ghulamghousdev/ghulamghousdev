@@ -24,6 +24,7 @@
 <br>
 
 ### About Me ⚡️
+- Software Engineer at [Educative, Inc](https://www.educative.io)
 - Hey! I'm MERN Stack developer pursuing a Bachelor’s degree in Computer Sciences from the University of Engineering & Technology (UET) Lahore.
 - Student Developer at Google Summer Of Code 2021. 
 - I'm constantly posting repositories and new software on GitHub for everybody to use which you can find [here](http://github.com/ghulamghousdev/)!

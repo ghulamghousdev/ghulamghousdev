@@ -25,13 +25,14 @@
 
 ### About Me ⚡️
 - Software Engineer at [Educative, Inc](https://www.educative.io)
-- Hey! I'm MERN Stack developer pursuing a Bachelor’s degree in Computer Sciences from the University of Engineering & Technology (UET) Lahore.
-- Student Developer at Google Summer Of Code 2021. 
+- Been working as a MERN Stack developer for the previous three years.
+- Graduated with major in Computer Science from the [University of Engineering & Technology (UET) Lahore](https://www.uet.edu.pk).
+- Former Student Developer at [Google Summer Of Code 2021](https://summerofcode.withgoogle.com). 
 - I'm constantly posting repositories and new software on GitHub for everybody to use which you can find [here](http://github.com/ghulamghousdev/)!
-- Currently dealing in MERN Stack for web development.
 - Making a difference to the community as [Beta Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com) at Microsoft.
-- General Team Member of [Developer Student Club](https://developers.google.com/community/dsc) UET Chapter 2019-2021.
-- Delivered [hands-on workshop on Git and GitHub](https://www.linkedin.com/posts/ghulamghousdev_opensource-git-github-activity-6722979018200621056-bPql) to teach students about GitHub and how to use Git to do version controlling and host their code on GitHub.
+- Former General Team Member of [Developer Student Club](https://developers.google.com/community/dsc) UET Chapter 2019-2022.
+- Delivered month long sessions on web development during Internship Program of UET Tribune.
+- Delivered 3 [hands-on workshop on Git and GitHub](https://www.linkedin.com/posts/ghulamghousdev_opensource-git-github-activity-6722979018200621056-bPql) to teach students about GitHub and how to use Git to do version controlling and host their code on GitHub.
 - Delivered [hands-on workshop on Azure in Machine Learning](https://www.linkedin.com/posts/ghulamghousdev_mlsa-azure-azurecloud-activity-6792730387152965632-wkZ0) to teach students about Azure, ML and performed a experiment using Azure ML Studio.
 <!--
 Tech Stack

@@ -10,10 +10,10 @@
 </a> <a href="https://medium.com/@ghulamghousdev" target="_blank">
 </a>
 <a href="https://www.facebook.com/gghous999">
-<img  alt="@justEhmad Saeed | Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
+<img  alt="@ghulamghousdev | Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 <a href="https://www.instagram.com/ghulam__ghous">
-<img alt="@justEhmadSaeed | Instagram"  src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+<img alt="@ghulamghousdev | Instagram"  src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
 
 <!--
 <img src = "https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" alt = "Medium" />
@@ -24,7 +24,9 @@
 <br>
 
 ### About Me ⚡️
-- Software Engineer at [Educative, Inc](https://www.educative.io)
+- Intermediate Javascript Engineer at [Bryntum](https://bryntum.com)
+- Software Engineer II at [Educative, Inc](https://www.educative.io) (Aug 2022 - October 2023)
+- Software Engineer I at [Educative, Inc](https://www.educative.io) (June 2022 - Aug 2023)
 - Been working as a MERN Stack developer for the previous three years.
 - Graduated with major in Computer Science from the [University of Engineering & Technology (UET) Lahore](https://www.uet.edu.pk).
 - Former Student Developer at [Google Summer Of Code 2021](https://summerofcode.withgoogle.com). 

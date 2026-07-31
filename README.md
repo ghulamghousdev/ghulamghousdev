@@ -1,6 +1,6 @@
 ### Hey There! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="29px">
 
-I JavaScript Engineer who loves to solve problems and always looking to take on new challenges. A little bit about me over the years:
+I am a JavaScript Engineer who loves to solve problems and always looking to take on new challenges. A little bit about me over the years:
 
 - Intermediate Javascript Engineer at [Bryntum](https://bryntum.com) (October 2023 - Present)
 - Software Engineer II at [Educative, Inc](https://www.educative.io) (Aug 2022 - October 2023)

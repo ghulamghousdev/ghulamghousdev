@@ -1,30 +1,8 @@
 ### Hey There! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="29px">
 
-<p align="center">
-  
-![](https://komarev.com/ghpvc/?username=ghulamghousdev&color=blueviolet&label=Profile+Views)
-<a href="https://twitter.com/GhulamGhousDev">
-<img alt="@GhulamGhousDev | Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-</a>  <a href="https://www.linkedin.com/in/ghulamghousdev/">
-<img alt="ghulamghousdev | LinkedIN"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a> <a href="https://medium.com/@ghulamghousdev" target="_blank">
-</a>
-<a href="https://www.facebook.com/gghous999">
-<img  alt="@ghulamghousdev | Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/ghulam__ghous">
-<img alt="@ghulamghousdev | Instagram"  src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+I JavaScript Engineer who loves to solve problems and always looking to take on new challenges. A little bit about me over the years:
 
-<!--
-<img src = "https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" alt = "Medium" />
-  -->
-  
-</a>
-</p>
-<br>
-
-### About Me ⚡️
-- Intermediate Javascript Engineer at [Bryntum](https://bryntum.com)
+- Intermediate Javascript Engineer at [Bryntum](https://bryntum.com) (October 2023 - Present)
 - Software Engineer II at [Educative, Inc](https://www.educative.io) (Aug 2022 - October 2023)
 - Software Engineer I at [Educative, Inc](https://www.educative.io) (June 2022 - Aug 2023)
 - Been working as a MERN Stack developer for the previous three years.
